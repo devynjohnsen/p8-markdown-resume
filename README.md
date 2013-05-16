@@ -3,9 +3,9 @@
 509.528.8001  
 debynjohnsen@yahoo.com
 
-***
-Education  
 
+###*Education*    
+***
 
 **Eastern Washington University**   
 >Visual Communication and Design  
@@ -21,31 +21,34 @@ Education
 >2007-2011  
 
 
-Experience
+##*Experience*
+***
 
 **Franklin PUD**  
 >Student Employee (Internship)  
 >June-September 2012  
 
 **Martha Garza Photography**  
-Photography Assistant  
-Editing photos, assisting with photo shoots.  
-2011  
+>Photography Assistant  
+>Editing photos, assisting with photo shoots.  
+>2011  
 
-Computer Skills
-Adobe Illustrator
-      Photoshop
-      InDesign
-      Dreamweaver
-Microsoft Word
-      Excel
-      Powerpoint
-      Publisher
-Web Design Basics (HTML, CSS)
+##*Computer Skills*  
+***
+>Adobe Illustrator  
+      Photoshop  
+      InDesign  
+      Dreamweaver  
+>Microsoft Word  
+      Excel  
+      Powerpoint  
+      Publisher  
+>Web Design Basics (HTML, CSS)
 
-Volunteer Work
-Union Gospel Mission
+##*Volunteer Work*  
+***
+**Union Gospel Mission**  
 Summer of 2012-Present
 
-Community Outreaches
+**Community Outreaches**
 2007-Present
