@@ -1,11 +1,9 @@
 #Devyn Johnsen      
+>509.528.8001  
+>debynjohnsen@yahoo.com
 
-509.528.8001  
-debynjohnsen@yahoo.com
+##*Education*  
 
-
-###*Education*    
-***
 
 **Eastern Washington University**   
 >Visual Communication and Design  
@@ -22,7 +20,7 @@ debynjohnsen@yahoo.com
 
 
 ##*Experience*
-***
+
 
 **Franklin PUD**  
 >Student Employee (Internship)  
@@ -34,7 +32,8 @@ debynjohnsen@yahoo.com
 >2011  
 
 ##*Computer Skills*  
-***
+
+
 >Adobe Illustrator  
       Photoshop  
       InDesign  
@@ -46,9 +45,10 @@ debynjohnsen@yahoo.com
 >Web Design Basics (HTML, CSS)
 
 ##*Volunteer Work*  
-***
+
+
 **Union Gospel Mission**  
 Summer of 2012-Present
 
-**Community Outreaches**
+**Community Outreaches**  
 2007-Present
